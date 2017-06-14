@@ -25,3 +25,5 @@ mail.login(email,password)
 mail.sendmail (email,sendm,content)
 
 mail.close()
+
+main.loop()
